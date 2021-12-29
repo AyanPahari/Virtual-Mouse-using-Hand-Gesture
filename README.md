@@ -45,7 +45,7 @@ In order for the controller to detect your finger movements make sure to use two
 
 #### So now if the camera detects two objects in red color then it will detect it and make a contour over each. Then it will join the centers of the two contours and the mid-point of that line will make the cursor move.
 
-![Output Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Output Screenshot](https://github.com/AyanPahari/Virtual-Mouse-using-Hand-Gesture/blob/master/Screenshots/Screenshot1.JPG)
 
 #### 2. Implementation of Close Gesture/ Clicking
 
@@ -53,7 +53,7 @@ In order for the controller to detect your finger movements make sure to use two
     Now if the camera detects only one contour it will make the mouse’s left button as pressed and 
     if it is more than only contours then the mouse’s left button is released.
 
-![Output Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Output Screenshot](https://github.com/AyanPahari/Virtual-Mouse-using-Hand-Gesture/blob/master/Screenshots/Screenshot2.JPG)
 
 
 #### Note
